@@ -1,0 +1,11 @@
+{
+    "ChromosomeFile": "chr2L.bed",
+    "ChromosomeFolder": "/path/to/the/Downloaded/BedFilesFolder",
+    "resolution": 20000,
+    "startLib": 2000000,
+    "nbrLociTotal": 50,
+    "nbrProbeByLocus": 150,
+    "nbrBcd_RT_ByProbe": 3,
+    "PrimerU": "primer1",
+    "bcd_RT_File": "List_RT.csv"
+}
